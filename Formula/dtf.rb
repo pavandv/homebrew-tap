@@ -1,5 +1,5 @@
 class DtfManager < Formula
-    version "0.1.0"
+    version "1.0.0"
     desc "Dtf: Manage dot files"
     homepage ""
 
